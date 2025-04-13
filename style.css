@@ -61,3 +61,14 @@ ul {
 p {
   color: #573A37;
 }
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  margin-top: 28px;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
