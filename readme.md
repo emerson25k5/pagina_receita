@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/400x120?text=AutCert+Logo" alt="Logo do AutCert" />
+  <img src="https://github.com/user-attachments/assets/0ced3ecd-eeb7-490a-bad9-3e400f04f83d" alt="Logo MELB" width="150"/>
 </p>
 
 <h1 align="center">AutCert — Sistema de Gestão de Eventos e Emissão de Certificados</h1>
