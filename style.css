@@ -7,6 +7,53 @@
   font-family: "Alice", serif;
 }
 
+header {
+  display: fixed;
+}
+
+header nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #F0E8C2;
+  color: #291B1A;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+div.logo-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img.logo {
+  width: 40px;
+}
+
+ul.menu {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul.menu li {
+  list-style-type: none;
+  margin: 10px;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+  transform: ;
+}
+
+ul.menu li:hover {
+  box-shadow: 2px 2px 2px 1px #573A37;
+}
+
+ul.menu a {
+  text-decoration: none;
+  color: #291B1A;
+}
+
 body {
   background-image: url("./assets/bg-image.jpg");
   background-size: cover;
@@ -40,9 +87,8 @@ section + section {
 h1 {
   line-height: 140%;
   font-size: 40px;
+  filter: drop-shadow(4px 2px 0px #573a375d);
 }
-
-
 
 h2 {
   font-size: 24px;
